@@ -484,6 +484,17 @@ body {
   margin-bottom: 8px;
 }
 
+@media screen and (min-width: 768px) {
+  .adventages-item-ttl {
+    font-weight: var(--font-medium);
+      font-size: 36px;
+      line-height: 1.1;
+      letter-spacing: 0.02em;
+      text-align: justify;
+      margin-bottom: 8px;
+    }
+}
+
 @media screen and (min-width: 1200px) {
   .adventages-item-ttl {
     font-size: 20px;
